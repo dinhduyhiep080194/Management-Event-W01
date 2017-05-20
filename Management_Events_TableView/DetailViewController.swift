@@ -21,7 +21,7 @@ class DetailViewController: UIViewController {
         lblNgay.text = ngay
         lblTen.text = sukien?.tenSuKien
         lblNoiDung.text = sukien?.noiDung
-        title = "Detail"
+        title = "Event Detail"
     }
 
     override func didReceiveMemoryWarning() {
